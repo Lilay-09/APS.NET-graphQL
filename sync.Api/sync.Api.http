@@ -1,0 +1,6 @@
+@sync.Api_HostAddress = http://localhost:5001
+
+GET {{sync.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

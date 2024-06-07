@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "sync.Core": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:29865;http://localhost:29866"
+    }
+  }
+}

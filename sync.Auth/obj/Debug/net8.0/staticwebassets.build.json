@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8XEcOcShZKZDbPxJHvyII5tKTmezespAHiPALoA/clc=",
+  "Source": "sync.Auth",
+  "BasePath": "_content/sync.Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

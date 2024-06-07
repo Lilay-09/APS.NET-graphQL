@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sync.Api.props" />
+</Project>
